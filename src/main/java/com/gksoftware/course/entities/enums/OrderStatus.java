@@ -1,4 +1,4 @@
-package com.gksoftware.course.entities;
+package com.gksoftware.course.entities.enums;
 
 public enum OrderStatus {
 	

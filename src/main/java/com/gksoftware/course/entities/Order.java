@@ -12,6 +12,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.gksoftware.course.entities.enums.OrderStatus;
 
 @Entity
 @Table(name = "tb_order")
